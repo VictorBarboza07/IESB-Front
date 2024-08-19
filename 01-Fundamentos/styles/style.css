@@ -1,0 +1,16 @@
+body {
+    padding-bottom: 500px;
+}
+
+h2{
+    color: rgb(228, 23, 255);
+    text-align: center;
+}
+.meu-titulo{
+    color: lawngreen;
+    text-align: center;
+}
+.Sub-titulo{
+    color: blue;
+    text-align: center;
+} 

@@ -1,0 +1,10 @@
+#altura-largura{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+}
+
+#div-espaço{
+    background-color: darkred;
+    padding:  10px 20px ;
+}
